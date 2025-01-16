@@ -1,4 +1,5 @@
-<h1 align="center"> Namaste 🙏 </h1>
+<h1 align="center"> Namaste 🙏 </h1> <img scr="![profile](https://github.com/user-attachments/assets/3909315f-23cc-4215-bbab-b2b231f57d6c)
+" width=100px height=100px>
  <h2> Hello👋, I'm Shivam Pandey</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
